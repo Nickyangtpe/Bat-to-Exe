@@ -1,0 +1,20 @@
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\bin\Debug\Bat to exe.exe.config
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\bin\Debug\Bat to exe.exe
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\bin\Debug\Bat to exe.pdb
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.AssemblyReference.cache
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat_to_exe.Form1.resources
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat_to_exe.Properties.Resources.resources
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.GenerateResource.cache
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.CoreCompileInputs.cache
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat to exe.exe
+C:\Users\Oscar\source\repos\Bat to exe\Bat to exe\obj\Debug\Bat to exe.pdb
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\bin\Debug\Bat to exe.exe.config
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\bin\Debug\Bat to exe.exe
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\bin\Debug\Bat to exe.pdb
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.AssemblyReference.cache
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat_to_exe.Form1.resources
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat_to_exe.Properties.Resources.resources
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.GenerateResource.cache
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat to exe.csproj.CoreCompileInputs.cache
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat to exe.exe
+C:\Users\nicky\Downloads\Bat to exe\Bat to exe\Bat to exe\obj\Debug\Bat to exe.pdb
