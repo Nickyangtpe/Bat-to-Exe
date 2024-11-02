@@ -1,4 +1,5 @@
 # Bat to exe
+![image](https://github.com/user-attachments/assets/c6651beb-9277-48ff-9b47-f597f5f18655)
 
 `Bat to exe` 是一款簡單易用的應用程式，允許用戶將批處理文件（.bat）轉換為可執行文件（.exe）。該應用程式支援編輯批處理內容、複製和粘貼功能，以及進度條顯示轉換過程。
 
@@ -16,6 +17,10 @@
 2. 雙擊 `Bat to exe.exe` 啟動應用程序。
 
 ## 使用指南
+![image](https://github.com/user-attachments/assets/6321f5ae-29d0-41a8-972f-47d8ee37c005)
+輸出解果:
+
+![image](https://github.com/user-attachments/assets/230d2c03-3a09-4715-bf65-9c2ab2aa9880)
 
 1. **打開應用程式**: 啟動 `Bat to exe` 應用程式。
 2. **選擇批處理文件**: 點擊「選擇批處理文件」按鈕，然後從文件對話框中選擇要轉換的 .bat 文件。
